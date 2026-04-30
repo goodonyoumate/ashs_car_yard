@@ -1,34 +1,42 @@
+/* Global styles */
 body {
     background-color: #ffffff;
     font-family: Arial, sans-serif;
 }
 
+/* Navigation bar styling */
 .navbar {
     background-color: #003A8F !important;
 }
 
+/* Navbar text color */
 .navbar-brand, .nav-link {
     color: #ffffff !important;
 }
 
+/* Navbar hover effect */
 .nav-link:hover {
     color: #4FA3FF !important;
 }
 
+/* Page headings */
 h1 {
     color: #003A8F;
 }
 
+/* Carousel text overlay styling */
 .carousel-caption {
     background-color: rgba(0, 58, 143, 0.7);
     border-radius: 8px;
 }
 
+/* Button styling */
 .btn {
     background-color: #4FA3FF;
     border: none;
 }
 
+/* Button hover effect */
 .btn:hover {
     background-color: #003A8F;
 }
